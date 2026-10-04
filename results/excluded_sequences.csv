@@ -1,0 +1,7 @@
+path,subject,sequence,condition,view,split,frames,height,width,dtype,pixel_min,pixel_max,empty_frames,under_16_frames,sha256,exclusion_reason
+data/casia-b/005/bg-01/090/090.pkl,5,bg-01,bg,90,development,1,64,64,uint8,0.0,255.0,0,True,f594f58ba5301d8d111a2658748e94fac0e722c39ec55b87eb282dc0955d4dcd,Fewer than 16 frames
+data/casia-b/005/bg-02/090/090.pkl,5,bg-02,bg,90,development,2,64,64,uint8,0.0,255.0,0,True,3b70ac79e8ad6478f34ecd008dd7a9fac1c1d307bbfef5d92fbdc633d86ba8c4,Fewer than 16 frames
+data/casia-b/005/nm-02/090/090.pkl,5,nm-02,nm,90,development,11,64,64,uint8,0.0,255.0,0,True,5cffefa4070f1fac4ef9d36946a0f2d8301f7e514890739646fd24c0ab7a2ce1,Fewer than 16 frames
+data/casia-b/005/nm-03/090/090.pkl,5,nm-03,nm,90,development,6,64,64,uint8,0.0,255.0,0,True,5ad151d3bd73ee888c59ee13ad6b85f15a5e3dafd7ddc1e910d6c8300770b6be,Fewer than 16 frames
+data/casia-b/005/nm-04/090/090.pkl,5,nm-04,nm,90,development,9,64,64,uint8,0.0,255.0,0,True,6e28acd346f00529833e6fce9b123a7a9d622cbbcd212f117ff260fa9b78b3d1,Fewer than 16 frames
+data/casia-b/005/nm-06/090/090.pkl,5,nm-06,nm,90,development,3,64,64,uint8,0.0,255.0,0,True,9cb9f54f882d654e8a13e4ff01cba41976ab9b0de8f4d76e9544e40a2e0759bd,Fewer than 16 frames
